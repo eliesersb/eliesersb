@@ -74,5 +74,5 @@ Developed a Docker-based IoT security monitoring environment integrating MQTT, R
 
 ## 📫 Connect with Me
 
-- LinkedIn: linkedin.com/in/eliesersb
-- GitHub: github.com/eliesersb
+- [LinkedIn](https://linkedin.com/in/eliesersb)
+- [GitHub](https://github.com/eliesersb)
